@@ -34,7 +34,7 @@
     "rbush": "^3.0.1",
     "requirejs": "^2.3.2",
     "roboto-fontface": "^0.10.0",
-    "tablesort": "^4.1.0",
+    "tablesort": "^5.2.1",
     "virtual-dom": "^2.1.1"
   },
   "eslintConfig": {
