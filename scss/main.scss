@@ -86,7 +86,7 @@ th.sort-header {
 table th.sort-header:after {
   font-family: "ionicons";
   padding-left: 0.25em;
-  content: '\f10d';
+  content: '\f286'; /* ion-md-arrow-dropup */
   visibility: hidden;
 }
 
@@ -100,7 +100,7 @@ table th.sort-up:after, table th.sort-down:after, table th.sort-down:hover:after
 }
 
 table th.sort-up:after {
-  content: '\f104';
+  content: '\f280'; /* ion-md-arrow-dropdown */
 }
 
 table.attributes th {
@@ -269,7 +269,7 @@ button.close {
   }
 
   &:after {
-    content: '\f2d7';
+    content: '\f2c0'; /* ion-md-close */
   }
 }
 
@@ -337,7 +337,7 @@ table {
 
 .sidebarhandle:after {
   padding-right: 0.125em;
-  content: "\f124";
+  content: "\f3cf"; /* ion-ios-arrow-back */
 }
 
 .sidebar.hidden .sidebarhandle {

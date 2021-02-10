@@ -1562,10 +1562,10 @@ interpret@~1.1.0:
   resolved "https://registry.yarnpkg.com/interpret/-/interpret-1.1.0.tgz#7ed1b1410c6a0e0f78cf95d3b8440c63f78b8614"
   integrity sha1-ftGxQQxqDg94z5XTuEQMY/eLhhQ=
 
-ionicons@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-2.0.1.tgz#ca398113293ea870244f538f0aabbd4b5b209a3e"
-  integrity sha1-yjmBEyk+qHAkT1OPCqu9S1sgmj4=
+ionicons@^4.6.4-1:
+  version "4.6.4-1"
+  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-4.6.4-1.tgz#215ab6168797c4527e44283003fcb0cd0159f163"
+  integrity sha512-sSK59KTdXGX3U/C524It+O8a1sOHzlq4oVmb8Xw67L5iwgHD8WdhoCInMl4pgoT2/nDQxsbH3S7Vxfi+xZxRdQ==
 
 is-absolute@^1.0.0:
   version "1.0.0"

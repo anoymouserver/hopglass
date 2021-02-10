@@ -35,7 +35,7 @@ module.exports = function(grunt) {
              ],
         expand: true,
         dest: "build/",
-        cwd: "node_modules/ionicons/"
+        cwd: "node_modules/ionicons/dist/"
       },
       leafletImages: {
         src: [ "images/*" ],
