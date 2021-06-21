@@ -39,6 +39,11 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@stencil/core@^2.5.0":
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/@stencil/core/-/core-2.6.0.tgz#29da96d8b6fc83e689b9f297ef3e8b59b90a676a"
+  integrity sha512-QsxWayZyusnqSZrlCl81R71rA3KqFjVVQSH4E0rGN15F1GdQaFonKlHLyCOLKLig1zzC+DQkLLiUuocexuvdeQ==
+
 abbrev@1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
@@ -1562,10 +1567,12 @@ interpret@~1.1.0:
   resolved "https://registry.yarnpkg.com/interpret/-/interpret-1.1.0.tgz#7ed1b1410c6a0e0f78cf95d3b8440c63f78b8614"
   integrity sha1-ftGxQQxqDg94z5XTuEQMY/eLhhQ=
 
-ionicons@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-2.0.1.tgz#ca398113293ea870244f538f0aabbd4b5b209a3e"
-  integrity sha1-yjmBEyk+qHAkT1OPCqu9S1sgmj4=
+ionicons@^5.5.2:
+  version "5.5.2"
+  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-5.5.2.tgz#1a92315b7cb1d1d5246a85fded50b75d9cb950ec"
+  integrity sha512-SHVBBtzNVQjY4jtcqKEHkqL5nIQwA/o2MIdU9JtMz8kQAB0NRVJFv5AxwmVbXXKDpxz57SiEjeLp8Uzt7jirpw==
+  dependencies:
+    "@stencil/core" "^2.5.0"
 
 is-absolute@^1.0.0:
   version "1.0.0"
